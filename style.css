@@ -1,0 +1,29 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  margin: 0;
+}
+
+a:link {
+  color: darkblue;
+}
+a:hover {
+  color: yellow;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  background-color: #bfd7ff;
+  padding-bottom: 150px;
+}
+
+address * {
+  display: block;
+}
+ 
